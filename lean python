@@ -1,3 +1,45 @@
-1. python
-2. numpy
-for this week 
+$$ python
+## Python Learning Order (Beginner to Advanced)
+
+1. Python Installation & Setup
+2. Variables and Data Types
+3. Input, Output & Operators
+4. Conditional Statements (`if-else`)
+5. Loops (`for`, `while`)
+6. Strings
+7. Lists, Tuples, Sets & Dictionaries
+8. Functions
+9. Recursion
+10. Problem Solving
+11. File Handling
+12. Exception Handling
+13. Modules, Packages & `pip`
+14. Object-Oriented Programming (OOP)
+15. List Comprehensions
+16. Iterators & Generators
+17. Regular Expressions
+18. Git & GitHub
+19. NumPy
+20. Pandas
+21. Matplotlib & Seaborn
+22. Jupyter Notebook
+23. Mathematics for Research
+24. Probability & Statistics
+25. Linear Algebra
+26. Data Cleaning & Exploratory Data Analysis (EDA)
+27. SQL
+28. Scikit-learn
+29. Machine Learning
+30. Model Evaluation & Cross-validation
+31. Feature Engineering
+32. Deep Learning Fundamentals
+33. PyTorch
+34. Neural Networks
+35. Research Paper Reading
+36. Research Paper Implementation
+37. Experiment Design & Result Analysis
+38. Advanced Research Projects
+
+Start with Topic 1 and follow this order. Don't skip the fundamentals to learn AI quickly.
+
+
